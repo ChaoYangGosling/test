@@ -1,5 +1,7 @@
 package test;
 
-public class sss {
-
+import javax.swing.JFrame;
+@SuppressWarnings("serial")
+public class sss extends JFrame{
+	Object o=new Object();
 }
